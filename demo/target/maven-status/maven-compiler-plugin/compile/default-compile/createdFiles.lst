@@ -1,0 +1,6 @@
+com/johnfb/demo/dao/FakeStudentDaoImpl.class
+com/johnfb/demo/model/Student.class
+com/johnfb/demo/resource/StudentResource.class
+com/johnfb/demo/dao/StudentDao.class
+com/johnfb/demo/SpringBootCourseApplication.class
+com/johnfb/demo/service/StudentService.class
